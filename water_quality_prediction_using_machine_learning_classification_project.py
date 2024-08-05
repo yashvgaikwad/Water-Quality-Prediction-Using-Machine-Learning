@@ -10,13 +10,19 @@ Original file is located at
 
 **Context:**
 
-Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
+Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. 
+This is important as a health and development issue at a national, regional and local level. 
+In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, 
+since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
 
 ---
 
 **Problem Statement:**
 
-The first step to effective healthcare is preventing disease. Widespread access to clean water, sanitation, and hygiene are crucial to ensure this. Water quality varies depending on the place and condition of the source of water and the treatment it receives. There could be specific contaminants in water resulting in health issues, ranging from gastrointestinal illness, reproductive problems, and neurological disorders. Infants, children, pregnant women, the elderly, and those with compromised immune systems may be especially susceptible.
+The first step to effective healthcare is preventing disease. Widespread access to clean water, sanitation, and hygiene are crucial to ensure this. 
+Water quality varies depending on the place and condition of the source of water and the treatment it receives. 
+There could be specific contaminants in water resulting in health issues, ranging from gastrointestinal illness, reproductive problems, and neurological disorders. 
+Infants, children, pregnant women, the elderly, and those with compromised immune systems may be especially susceptible.
 
 ---
 **Objective:**
